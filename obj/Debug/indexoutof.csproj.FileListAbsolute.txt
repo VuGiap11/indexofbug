@@ -1,0 +1,3 @@
+C:\Users\tuan\Desktop\indexoutof\obj\Debug\indexoutof.csproj.AssemblyReference.cache
+C:\Users\tuan\Desktop\indexoutof\obj\Debug\indexoutof.csproj.SuggestedBindingRedirects.cache
+C:\Users\tuan\Desktop\indexoutof\obj\Debug\indexoutof.csproj.CoreCompileInputs.cache
